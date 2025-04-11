@@ -14,7 +14,7 @@
 
 ## 📂 專案結構
 ```
-Auto_APP_Test/
+auto_test_appium/
 ├── run.py                     # 主程式入口
 ├── utils/
 │   ├── __init__.py
