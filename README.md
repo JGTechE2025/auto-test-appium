@@ -17,11 +17,14 @@
 Auto_APP_Test/
 ├── run.py                     # 主程式入口
 ├── utils/
+│   ├── __init__.py
 │   └── driver_setup.py        # 初始化 driver 設定
 ├── pages/
+│   ├── __init__.py
 │   ├── home_page.py           # 首頁元件與操作封裝
 │   └── phone_page.py          # 手機登入頁面元件與操作封裝
 ├── tests/
+│   ├── __init__.py
 │   └── test_home_page.py      # 測試案例
 ├── Pipfile                    # 套件管理
 └── Pipfile.lock               # 套件鎖定
